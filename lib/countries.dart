@@ -6916,7 +6916,7 @@ const List<Country> countries = [
     maxLength: 8,
   ),
   Country(
-    name: "Turkey",
+    name: "Turkiye",
     nameTranslations: {
       "sk": "Turecko",
       "se": "Durka",
@@ -6929,7 +6929,7 @@ const List<Country> countries = [
       "de": "Türkei",
       "fr": "Turquie",
       "es": "Turquía",
-      "en": "Turkey",
+      "en": "Turkiye",
       "pt_BR": "Peru",
       "sr-Cyrl": "Турска",
       "sr-Latn": "Turska",
